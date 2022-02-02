@@ -1,0 +1,53 @@
+{
+  "jugadores": [
+    {
+      "id": 0,
+      "nombre": "Ricardo Hernandez",
+      "elo": 1000,
+      "equipo": "Arsenal",
+      "color": "#E53935",
+      "partidos": {
+        "ganados": 0,
+        "empatados": 0,
+        "perdidos": 0
+      },
+      "goles": {
+        "afavor": 0,
+        "encontra": 0
+      },
+      "expected": 0.54
+    },
+    {
+      "id": 1,
+      "nombre": "Oscar Labansat",
+      "elo": 1000,
+      "equipo": "Bayern Munich",
+      "color": "#c11a5d",
+      "partidos": {
+        "ganados": 0,
+        "empatados": 0,
+        "perdidos": 0
+      },
+      "goles": {
+        "afavor": 0,
+        "encontra": 0
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "Leonel Vera",
+      "elo": 1000,
+      "equipo": "Real Madrid",
+      "color": "#36d339",
+      "partidos": {
+        "ganados": 0,
+        "empatados": 0,
+        "perdidos": 0
+      },
+      "goles": {
+        "afavor": 0,
+        "encontra": 0
+      }
+    }
+  ]
+}
